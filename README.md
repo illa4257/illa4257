@@ -7,4 +7,4 @@ Contacts:
  - php, JavaScript, C#, Java, Python, lua & delphi Pascal.
 ---
    Other:
- - MySQL, json, xml, yml, markdown & batch.
+ - MySQL, json, xml+html, css, yml, markdown & batch.
