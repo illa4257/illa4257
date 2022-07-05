@@ -4,7 +4,19 @@ Contacts:
  - Telegram: @illa4257
 ---
 🌐 Langs:
- - php, JavaScript, C#, Java, Python, lua & delphi Pascal.
+ - php
+ - C# (Unity3D, .NET Core, .NET Framework)
+ - Java
+ - JavaScript
+ - Python
+ - lua
+ - Delphi Pascal
 ---
    Other:
- - MySQL, json, xml+html, css, yml, markdown & batch.
+ - MySQL
+ - json
+ - xml+html
+ - css
+ - yml
+ - markdown
+ - batch
