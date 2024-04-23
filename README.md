@@ -2,6 +2,7 @@
 ---
 Contacts:
  - Telegram: @illa4257
+ - Discord: illa4257#0000
 ---
 🌐 Langs:
  - php
