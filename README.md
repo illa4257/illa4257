@@ -1,5 +1,7 @@
 👋 Hi, I’m @illa4257
 ---
+[My resume](http://illa4257.is-a.dev/resume.html)
+---
 Contacts:
  - Telegram: [@illa4257](https://t.me/illa4257)
  - Discord: [illa4257#0000](https://discordapp.com/users/445277624307023885)
