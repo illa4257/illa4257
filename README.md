@@ -17,9 +17,9 @@ Contacts:
  - Delphi Pascal
 ---
    Other:
- - MySQL
+ - SQL (MySQL, MariaDB, H2)
  - json
- - xml+html
+ - XML (xml, html, svg)
  - css
  - yml
  - markdown
